@@ -4,8 +4,8 @@ Tags: email, telegram, logging, scheduling, notifications
 Requires at least: 5.0
 Tested up to: 6.6.2
 Stable tag: 1.7.19
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: CC BY-ND 4.0
+License URI: https://creativecommons.org/licenses/by-nd/4.0/
 
 This plugin allows you to schedule hourly emails and log results. Admins can send manual tests and receive Telegram notifications on failures.
 
